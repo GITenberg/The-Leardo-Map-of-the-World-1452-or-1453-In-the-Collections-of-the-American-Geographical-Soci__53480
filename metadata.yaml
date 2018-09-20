@@ -1,0 +1,35 @@
+_repo: The-Leardo-Map-of-the-World-1452-or-1453-In-the-Collections-of-the-American-Geographical-Soci__53480
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hoen, Albert Berthold
+    gutenberg_agent_id: '49457'
+    url: http://www.gutenberg.org/2009/agents/49457
+creator:
+  author:
+    agent_name: Wright, John Kirtland
+    alias: Wright, J. K. (John Kirtland)
+    birthdate: 1891
+    deathdate: 1969
+    gutenberg_agent_id: '47393'
+    url: http://www.gutenberg.org/2009/agents/47393
+description: ''
+gutenberg_bookshelf: Maps and Cartography
+gutenberg_issued: '2016-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53480'
+  lccn: '28007386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GA'
+- !lcsh 'Early maps'
+- !lcsh 'Leardo, Giovanni'
+- GITenberg
+title: 'The Leardo Map of the World, 1452 or 1453
+
+  In the Collections of the American Geographical Society'
+url: http://www.gutenberg.org/ebooks/53480
